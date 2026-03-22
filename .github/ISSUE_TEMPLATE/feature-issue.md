@@ -2,7 +2,7 @@
 name: FEATURE ISSUE
 about: 기능 관련 이슈 템플릿
 title: "[ALL,BE,FE]"
-labels: ''
+labels: "✨ type: feature"
 assignees: ''
 
 ---
