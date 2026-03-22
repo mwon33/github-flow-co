@@ -2,7 +2,7 @@
 name: REFACTOR ISSUE
 about: 리팩토링 관련 이슈 템플릿
 title: "[REFACTOR]"
-labels: "\U0001F527refactor"
+labels: "♻️ refactor"
 assignees: ''
 
 ---
